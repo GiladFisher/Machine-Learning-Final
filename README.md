@@ -43,19 +43,19 @@ This project aims to classify stellar objects using various machine learning mod
 The project evaluates several machine learning models, including:
 
 1. Support Vector Classifier (SVC):
-   - Accuracy: 0.984
+   - Accuracy: 0.959
    - Detailed classification report included in the report.
 
 2. Random Forest Classifier:
-   - Accuracy: 0.980
+   - Accuracy: 0.981
    - Detailed classification report included in the report.
 
 3. CatBoost Classifier:
-   - Accuracy: 0.982
+   - Accuracy: 0.977
    - Detailed classification report included in the report.
 
 4. Multi-Layer Perceptron (MLP) Classifier:
-   - Accuracy: 0.978
+   - Accuracy: 0.972
    - Detailed classification report included in the report.
 
 5. Kolmogorov-Arnold Network (KAN):
